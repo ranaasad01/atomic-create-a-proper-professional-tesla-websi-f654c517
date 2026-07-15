@@ -9,6 +9,10 @@ export const navLinks: NavLink[] = [
   { label: "nav.energy", href: "/energy", type: "route" },
   { label: "nav.charging", href: "/charging", type: "route" },
   { label: "nav.about", href: "/about", type: "route" },
+  { label: "nav.shop", href: "/shop", type: "route" },
+  { label: "nav.autopilot", href: "/autopilot", type: "route" },
+  { label: "nav.newsroom", href: "/newsroom", type: "route" },
+  { label: "nav.investors", href: "/investors", type: "route" },
 ];
 
 export const BRAND_NAME = "Tesla";
@@ -129,7 +133,7 @@ export const energyProducts: EnergyProduct[] = [
     tagline: "Integrated Solar Tiles",
     description:
       "Solar Roof tiles are more than three times stronger than standard roofing tiles and are engineered for all-weather protection.",
-    image: "https://s3.amazonaws.com/solarassets/wp-content/uploads/2019/07/tesla-solar-roof.png",
+    image: "https://s3.amazonaws.com/arc-wordpress-client-uploads/evannex/wp-content/uploads/2019/09/09191911/tesla-solar-roof-v3-tiles-1400x700.jpg",
     learnHref: "/energy#solar-roof",
     orderHref: "#order",
   },
@@ -138,8 +142,8 @@ export const energyProducts: EnergyProduct[] = [
     name: "Solar Panels",
     tagline: "Lowest Cost Solar",
     description:
-      "Produce clean energy from sunlight before it reaches your roof. Tesla solar panels are low-profile and durable.",
-    image: "/images/tesla-solar-panels-roof.jpg",
+      "Generate clean energy from the sun with the most affordable solar panels on the market. Pair with Powerwall for 24/7 clean energy.",
+    image: "https://electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-solar-panels-hero.jpg",
     learnHref: "/energy#solar-panels",
     orderHref: "#order",
   },
