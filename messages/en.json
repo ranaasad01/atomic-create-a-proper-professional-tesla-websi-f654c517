@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "vehicles": "Vehicles",
+    "energy": "Energy",
+    "charging": "Charging",
+    "about": "About",
+    "orderNow": "Order Now",
+    "logoAlt": "Tesla — Home",
+    "ariaLabel": "Main navigation",
+    "mobileAriaLabel": "Mobile navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "footer": {
+    "col": {
+      "vehicles": "Vehicles",
+      "energy": "Energy",
+      "charging": "Charging",
+      "company": "Company"
+    },
+    "link": {
+      "modelS": "Model S",
+      "model3": "Model 3",
+      "modelX": "Model X",
+      "modelY": "Model Y",
+      "cybertruck": "Cybertruck",
+      "roadster": "Roadster",
+      "powerwall": "Powerwall",
+      "solarRoof": "Solar Roof",
+      "solarPanels": "Solar Panels",
+      "megapack": "Megapack",
+      "supercharger": "Supercharger",
+      "homeCharging": "Home Charging",
+      "destinationCharging": "Destination Charging",
+      "about": "About Tesla",
+      "careers": "Careers",
+      "press": "Press",
+      "investors": "Investor Relations"
+    },
+    "copyright": "© 2024 Tesla, Inc. All rights reserved.",
+    "privacy": "Privacy & Legal",
+    "legal": "Terms of Use",
+    "contact": "Contact",
+    "careers": "Careers"
+  },
+  "about": {
+    "careers": {
+      "body": "Join a team reimagining transportation and energy. We're looking for engineers, designers, and innovators who want to accelerate the world's transition to sustainable energy.",
+      "cta": "View Open Roles",
+      "eyebrow": "Work With Us",
+      "heading": "Build the Future",
+      "imageAlt": "Tesla team members collaborating in a modern office environment"
+    },
+    "hero": {
+      "eyebrow": "Our Story",
+      "heading": "Accelerating the World's Transition to Sustainable Energy",
+      "imageAlt": "Tesla Gigafactory exterior with solar panels and modern architecture",
+      "scrollLabel": "Scroll to explore",
+      "subheading": "Since 2003, we've been on a mission to transform how the world produces and consumes energy."
+    },
+    "mission": {
+      "statement": "To accelerate the world's transition to sustainable energy."
+    },
+    "philosophy": {
+      "body": "We believe the future is electric. By combining cutting-edge technology with sustainable practices, we're creating products that don't compromise on performance or the planet.",
+      "eyebrow": "Our Philosophy",
+      "heading": "Innovation Meets Responsibility",
+      "quote": "The future is bright if you're willing to work for it.",
+      "quoteAuthor": "Elon Musk",
+      "quoteAuthorAlt": "Elon Musk portrait",
+      "quoteRole": "CEO & Chief Engineer"
+    },
+    "timeline": {
+      "eyebrow": "Milestones",
+      "heading": "Two Decades of Impact"
+    },
+    "values": {
+      "eyebrow": "What Drives Us",
+      "heading": "Our Core Values"
+    }
+  },
+  "charging": {
+    "app": {
+      "appStore": "Download on App Store",
+      "description": "Find available Superchargers, check real-time availability, and start charging from your phone.",
+      "eyebrow": "Mobile App",
+      "googlePlay": "Get it on Google Play",
+      "mockup": {
+        "charging": "Charging",
+        "timeLeft": "45 min remaining"
+      },
+      "mockupAlt": "Tesla mobile app showing active charging session",
+      "title": "Charge on the Go"
+    },
+    "benefits": {
+      "subtitle": "Experience the convenience of fast, reliable charging wherever you travel.",
+      "title": "Why Choose Supercharging"
+    },
+    "cta": {
+      "badge": "Ready to charge?",
+      "button1": "Find a Supercharger",
+      "button2": "Learn More",
+      "imageAlt": "Tesla vehicle charging at a Supercharger station",
+      "subtitle": "Join millions of Tesla owners enjoying the freedom of fast charging.",
+      "title": "Start Your Journey Today"
+    },
+    "hero": {
+      "badge": "Charge in minutes, not hours",
+      "cta1": "Locate Superchargers",
+      "cta2": "Explore Pricing",
+      "imageAlt": "Tesla Supercharger station with vehicle charging at sunset",
+      "scroll": "Scroll to discover",
+      "subtitle": "The world's fastest charging network. Charge up to 200 miles in just 15 minutes.",
+      "title": "Supercharging"
+    },
+    "howto": {
+      "subtitle": "Plug in, charge up, and hit the road. It's that simple.",
+      "title": "How It Works"
+    },
+    "map": {
+      "legend": "Supercharger locations worldwide",
+      "subtitle": "Over 50,000 Superchargers across the globe, and growing.",
+      "svgAlt": "Global map showing Tesla Supercharger network coverage",
+      "title": "Find Superchargers Near You"
+    },
+    "types": {
+      "popular": "Most Popular",
+      "subtitle": "Choose the right charging solution for your lifestyle",
+      "title": "Charging Options"
+    }
+  },
+  "energy": {
+    "calculator": {
+      "chart": {
+        "grid": "Monthly Energy Usage",
+        "heading": "Your Energy Profile",
+        "note": "Based on your inputs",
+        "solar": "Solar Generation"
+      },
+      "disclaimer": "Estimates based on your location and usage patterns. Actual savings may vary.",
+      "eyebrow": "See Your Potential",
+      "heading": "Calculate Your Savings",
+      "inputs": {
+        "heading": "Tell Us About Your Home",
+        "monthlyBill": "Monthly Electric Bill",
+        "roofSize": "Roof Size (sq ft)"
+      },
+      "result": {
+        "annualSavings": "Estimated Annual Savings",
+        "payback": "Payback Period",
+        "systemSize": "Recommended System Size"
+      },
+      "subheading": "Discover how much you could save with Tesla Energy"
+    },
+    "cta": {
+      "body": "Ready to power your home sustainably? Get a personalized quote today.",
+      "button": {
+        "quote": "Get Your Quote",
+        "vehicles": "Explore Vehicles"
+      },
+      "eyebrow": "Next Steps",
+      "heading": "Start Your Energy Journey"
+    },
+    "diagram": {
+      "exporting": "Exporting to Grid"
+    },
+    "faq": {
+      "heading": "Frequently Asked Questions"
+    },
+    "hero": {
+      "badge": "Clean Energy for Your Home",
+      "cta": {
+        "explore": "Explore Products",
+        "savings": "Calculate Savings"
+      },
+      "imageAlt": "Tesla Solar Roof on modern home",
+      "scroll": "Scroll to explore",
+      "subtitle": "Reduce your energy bills and carbon footprint with Tesla solar and storage solutions",
+      "title": "Power Your Home with Solar"
+    },
+    "product": {
+      "learn": "Learn More",
+      "order": "Order Now"
+    },
+    "products": {
+      "heading": "Complete Energy Solutions",
+      "subheading": "From solar panels to home batteries, we have everything you need"
+    },
+    "stats": {
+      "clean": "Tons of CO₂ Offset Annually",
+      "homes": "Homes Powered Worldwide",
+      "taxCredit": "Federal Tax Credit Available",
+      "warranty": "25-Year Warranty"
+    },
+    "wholehome": {
+      "body": "Combine solar generation, storage, and smart controls for complete energy independence",
+      "eyebrow": "Integrated System",
+      "heading": "Whole Home Energy",
+      "imageAlt": "Tesla Powerwall and solar system diagram"
+    }
+  },
+  "home": {
+    "cta": {
+      "eyebrow": "Take the Next Step",
+      "heading": "Ready to Go Electric?",
+      "primary": "Shop Now",
+      "secondary": "Schedule Demo",
+      "subheading": "Explore our full lineup of electric vehicles and energy solutions"
+    },
+    "energy": {
+      "eyebrow": "Sustainable Energy",
+      "heading": "Power Your Home",
+      "learn": "Explore Powerwall",
+      "learnMore": "Learn more",
+      "order": "Order now",
+      "viewAll": "View all products"
+    },
+    "hero": {
+      "cta": {
+        "primary": "Order now",
+        "secondary": "Explore inventory"
+      },
+      "eyebrow": "Now available",
+      "headline": "The future of driving",
+      "imageAlt": "Tesla electric vehicle on a scenic road",
+      "subheadline": "Experience zero emissions and unmatched performance."
+    },
+    "testimonials": {
+      "eyebrow": "Customer stories",
+      "heading": "Loved by owners worldwide"
+    },
+    "value": {
+      "eyebrow": "Why Tesla",
+      "heading": "Built for the future",
+      "subheading": "Advanced technology, sustainable energy, and exceptional design."
+    },
+    "vehicles": {
+      "configure": "Configure",
+      "eyebrow": "Our lineup",
+      "heading": "Choose your Tesla",
+      "order": "Order",
+      "range": "Range",
+      "topSpeed": "Top speed",
+      "viewAll": "View all models",
+      "zeroSixty": "0-60 mph"
+    }
+  },
+  "vehicles": {
+    "bottomCta": {
+      "eyebrow": "Ready to switch",
+      "primaryBtn": "Order now",
+      "secondaryBtn": "Schedule a test drive",
+      "subtitle": "Join millions of Tesla owners driving electric.",
+      "title": "Find your perfect match"
+    },
+    "compare": {
+      "col": {
+        "action": "Action",
+        "model": "Model",
+        "price": "Starting price",
+        "range": "Range",
+        "topSpeed": "Top speed",
+        "zeroSixty": "0-60 mph"
+      },
+      "eyebrow": "Compare models",
+      "subtitle": "Side-by-side specifications",
+      "title": "Compare Tesla vehicles"
+    },
+    "cta": {
+      "configure": "Configure",
+      "order": "Order"
+    },
+    "eyebrow": "Vehicles",
+    "pageSubtitle": "Explore our complete electric vehicle lineup.",
+    "pageTitle": "Tesla vehicles",
+    "scrollExplore": "Scroll to explore",
+    "sideNav": {
+      "ariaLabel": "Vehicle models navigation"
+    },
+    "spec": {
+      "range": "Range",
+      "topSpeed": "Top speed",
+      "zeroSixty": "0-60 mph"
+    },
+    "startingAt": "Starting at"
+  }
+}

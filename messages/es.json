@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "vehicles": "Vehículos",
+    "energy": "Energía",
+    "charging": "Carga",
+    "about": "Acerca de",
+    "orderNow": "Ordenar Ahora",
+    "logoAlt": "Tesla — Inicio",
+    "ariaLabel": "Navegación principal",
+    "mobileAriaLabel": "Navegación móvil",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "footer": {
+    "col": {
+      "vehicles": "Vehículos",
+      "energy": "Energía",
+      "charging": "Carga",
+      "company": "Empresa"
+    },
+    "link": {
+      "modelS": "Model S",
+      "model3": "Model 3",
+      "modelX": "Model X",
+      "modelY": "Model Y",
+      "cybertruck": "Cybertruck",
+      "roadster": "Roadster",
+      "powerwall": "Powerwall",
+      "solarRoof": "Solar Roof",
+      "solarPanels": "Paneles Solares",
+      "megapack": "Megapack",
+      "supercharger": "Supercharger",
+      "homeCharging": "Carga en Casa",
+      "destinationCharging": "Carga en Destino",
+      "about": "Acerca de Tesla",
+      "careers": "Carreras",
+      "press": "Prensa",
+      "investors": "Relaciones con Inversores"
+    },
+    "copyright": "© 2024 Tesla, Inc. Todos los derechos reservados.",
+    "privacy": "Privacidad y Legal",
+    "legal": "Términos de Uso",
+    "contact": "Contacto",
+    "careers": "Carreras"
+  },
+  "about": {
+    "careers": {
+      "body": "Únete a un equipo que reimagina el transporte y la energía. Buscamos ingenieros, diseñadores e innovadores que quieran acelerar la transición mundial hacia la energía sostenible.",
+      "cta": "Ver Puestos Abiertos",
+      "eyebrow": "Trabaja Con Nosotros",
+      "heading": "Construye el Futuro",
+      "imageAlt": "Miembros del equipo de Tesla colaborando en un moderno entorno de oficina"
+    },
+    "hero": {
+      "eyebrow": "Nuestra Historia",
+      "heading": "Acelerando la Transición del Mundo hacia la Energía Sostenible",
+      "imageAlt": "Exterior de la Gigafábrica de Tesla con paneles solares y arquitectura moderna",
+      "scrollLabel": "Desplázate para explorar",
+      "subheading": "Desde 2003, nos hemos propuesto transformar cómo el mundo produce y consume energía."
+    },
+    "mission": {
+      "statement": "Acelerar la transición del mundo hacia la energía sostenible."
+    },
+    "philosophy": {
+      "body": "Creemos que el futuro es eléctrico. Al combinar tecnología de vanguardia con prácticas sostenibles, estamos creando productos que no comprometen el rendimiento ni el planeta.",
+      "eyebrow": "Nuestra Filosofía",
+      "heading": "La Innovación se Encuentra con la Responsabilidad",
+      "quote": "El futuro es brillante si estás dispuesto a trabajar por él.",
+      "quoteAuthor": "Elon Musk",
+      "quoteAuthorAlt": "Retrato de Elon Musk",
+      "quoteRole": "CEO e Ingeniero Jefe"
+    },
+    "timeline": {
+      "eyebrow": "Hitos",
+      "heading": "Dos Décadas de Impacto"
+    },
+    "values": {
+      "eyebrow": "Lo Que Nos Impulsa",
+      "heading": "Nuestros Valores Fundamentales"
+    }
+  },
+  "charging": {
+    "app": {
+      "appStore": "Descargar en App Store",
+      "description": "Encuentra Supercargadores disponibles, verifica la disponibilidad en tiempo real e inicia la carga desde tu teléfono.",
+      "eyebrow": "Aplicación Móvil",
+      "googlePlay": "Obtén en Google Play",
+      "mockup": {
+        "charging": "Cargando",
+        "timeLeft": "45 min restantes"
+      },
+      "mockupAlt": "Aplicación móvil de Tesla mostrando una sesión de carga activa",
+      "title": "Carga en Movimiento"
+    },
+    "benefits": {
+      "subtitle": "Experimenta la comodidad de una carga rápida y confiable dondequiera que viajes.",
+      "title": "Por Qué Elegir Supercarga"
+    },
+    "cta": {
+      "badge": "¿Listo para cargar?",
+      "button1": "Encontrar un Supercargador",
+      "button2": "Más Información",
+      "imageAlt": "Vehículo Tesla cargando en una estación Supercargador",
+      "subtitle": "Únete a millones de propietarios de Tesla disfrutando de la libertad de carga rápida.",
+      "title": "Comienza Tu Viaje Hoy"
+    },
+    "hero": {
+      "badge": "Carga en minutos, no en horas",
+      "cta1": "Localizar Supercargadores",
+      "cta2": "Explorar Precios",
+      "imageAlt": "Estación Supercargador de Tesla con vehículo cargando al atardecer",
+      "scroll": "Desplázate para descubrir",
+      "subtitle": "La red de carga más rápida del mundo. Carga hasta 200 millas en solo 15 minutos.",
+      "title": "Supercarga"
+    },
+    "howto": {
+      "subtitle": "Enchufa, carga y ponte en marcha. Es así de simple.",
+      "title": "Cómo Funciona"
+    },
+    "map": {
+      "legend": "Ubicaciones de Supercargadores en todo el mundo",
+      "subtitle": "Más de 50,000 Supercargadores en todo el mundo, y creciendo.",
+      "svgAlt": "Mapa global que muestra la cobertura de la red de Supercargadores de Tesla",
+      "title": "Encuentra Supercargadores Cerca de Ti"
+    },
+    "types": {
+      "popular": "Más Popular",
+      "subtitle": "Elige la solución de carga adecuada para tu estilo de vida",
+      "title": "Opciones de Carga"
+    }
+  },
+  "energy": {
+    "calculator": {
+      "chart": {
+        "grid": "Consumo Mensual de Energía",
+        "heading": "Tu Perfil Energético",
+        "note": "Basado en tus datos",
+        "solar": "Generación Solar"
+      },
+      "disclaimer": "Estimaciones basadas en tu ubicación y patrones de uso. Los ahorros reales pueden variar.",
+      "eyebrow": "Ve Tu Potencial",
+      "heading": "Calcula Tus Ahorros",
+      "inputs": {
+        "heading": "Cuéntanos Sobre Tu Hogar",
+        "monthlyBill": "Factura Eléctrica Mensual",
+        "roofSize": "Tamaño del Techo (pies cuadrados)"
+      },
+      "result": {
+        "annualSavings": "Ahorros Anuales Estimados",
+        "payback": "Período de Recuperación",
+        "systemSize": "Tamaño de Sistema Recomendado"
+      },
+      "subheading": "Descubre cuánto podrías ahorrar con Tesla Energy"
+    },
+    "cta": {
+      "body": "¿Listo para alimentar tu hogar de forma sostenible? Obtén una cotización personalizada hoy.",
+      "button": {
+        "quote": "Obtén Tu Cotización",
+        "vehicles": "Explora Vehículos"
+      },
+      "eyebrow": "Próximos Pasos",
+      "heading": "Comienza Tu Viaje Energético"
+    },
+    "diagram": {
+      "exporting": "Exportando a la Red"
+    },
+    "faq": {
+      "heading": "Preguntas Frecuentes"
+    },
+    "hero": {
+      "badge": "Energía Limpia para Tu Hogar",
+      "cta": {
+        "explore": "Explora Productos",
+        "savings": "Calcula Ahorros"
+      },
+      "imageAlt": "Techo Solar Tesla en casa moderna",
+      "scroll": "Desplázate para explorar",
+      "subtitle": "Reduce tus facturas de energía y tu huella de carbono con soluciones de energía solar y almacenamiento de Tesla",
+      "title": "Alimenta Tu Hogar con Energía Solar"
+    },
+    "product": {
+      "learn": "Más Información",
+      "order": "Pedir Ahora"
+    },
+    "products": {
+      "heading": "Soluciones Energéticas Completas",
+      "subheading": "Desde paneles solares hasta baterías para el hogar, tenemos todo lo que necesitas"
+    },
+    "stats": {
+      "clean": "Toneladas de CO₂ Compensadas Anualmente",
+      "homes": "Hogares Alimentados en Todo el Mundo",
+      "taxCredit": "Crédito Fiscal Federal Disponible",
+      "warranty": "Garantía de 25 Años"
+    },
+    "wholehome": {
+      "body": "Combina generación solar, almacenamiento y controles inteligentes para independencia energética completa",
+      "eyebrow": "Sistema Integrado",
+      "heading": "Energía para Todo el Hogar",
+      "imageAlt": "Diagrama de Tesla Powerwall y sistema solar"
+    }
+  },
+  "home": {
+    "cta": {
+      "eyebrow": "Próximo Paso",
+      "heading": "¿Listo para Electrificarte?",
+      "primary": "Comprar Ahora",
+      "secondary": "Agendar Demo",
+      "subheading": "Explora nuestra línea completa de vehículos eléctricos y soluciones energéticas"
+    },
+    "energy": {
+      "eyebrow": "Energía Sostenible",
+      "heading": "Alimenta tu Hogar",
+      "learn": "Explorar Powerwall",
+      "learnMore": "Más información",
+      "order": "Comprar ahora",
+      "viewAll": "Ver todos los productos"
+    },
+    "hero": {
+      "cta": {
+        "primary": "Comprar ahora",
+        "secondary": "Explorar inventario"
+      },
+      "eyebrow": "Disponible ahora",
+      "headline": "El futuro de la conducción",
+      "imageAlt": "Vehículo eléctrico Tesla en una carretera panorámica",
+      "subheadline": "Experimenta cero emisiones y rendimiento incomparable."
+    },
+    "testimonials": {
+      "eyebrow": "Historias de clientes",
+      "heading": "Amado por propietarios en todo el mundo"
+    },
+    "value": {
+      "eyebrow": "Por Qué Tesla",
+      "heading": "Construido para el Futuro",
+      "subheading": "Tecnología avanzada, energía sostenible y diseño excepcional."
+    },
+    "vehicles": {
+      "configure": "Configurar",
+      "eyebrow": "Nuestra Línea",
+      "heading": "Elige tu Tesla",
+      "order": "Comprar",
+      "range": "Autonomía",
+      "topSpeed": "Velocidad máxima",
+      "viewAll": "Ver todos los modelos",
+      "zeroSixty": "0-60 mph"
+    }
+  },
+  "vehicles": {
+    "bottomCta": {
+      "eyebrow": "¿Listo para cambiar?",
+      "primaryBtn": "Pedir ahora",
+      "secondaryBtn": "Programar una prueba de manejo",
+      "subtitle": "Únete a millones de propietarios de Tesla que conducen vehículos eléctricos.",
+      "title": "Encuentra tu opción perfecta"
+    },
+    "compare": {
+      "col": {
+        "action": "Acción",
+        "model": "Modelo",
+        "price": "Precio inicial",
+        "range": "Autonomía",
+        "topSpeed": "Velocidad máxima",
+        "zeroSixty": "0-60 mph"
+      },
+      "eyebrow": "Comparar modelos",
+      "subtitle": "Especificaciones lado a lado",
+      "title": "Comparar vehículos Tesla"
+    },
+    "cta": {
+      "configure": "Configurar",
+      "order": "Pedir"
+    },
+    "eyebrow": "Vehículos",
+    "pageSubtitle": "Explora nuestra línea completa de vehículos eléctricos.",
+    "pageTitle": "Vehículos Tesla",
+    "scrollExplore": "Desplázate para explorar",
+    "sideNav": {
+      "ariaLabel": "Navegación de modelos de vehículos"
+    },
+    "spec": {
+      "range": "Autonomía",
+      "topSpeed": "Velocidad máxima",
+      "zeroSixty": "0-60 mph"
+    },
+    "startingAt": "A partir de"
+  }
+}
